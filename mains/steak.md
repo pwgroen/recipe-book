@@ -1,6 +1,10 @@
-ingedients:  
-beef
-butter
-salt
-peper
+ingredients:  
+  beef
+  butter
+  salt
+  peper
 
+instructions:
+  rare:
+  medium:
+  well done:
